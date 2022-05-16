@@ -1,0 +1,7 @@
+C:\Users\Yoda\source\repos\2lab group v1\bin\Debug\2lab group v1.exe.config
+C:\Users\Yoda\source\repos\2lab group v1\bin\Debug\2lab group v1.exe
+C:\Users\Yoda\source\repos\2lab group v1\bin\Debug\2lab group v1.pdb
+C:\Users\Yoda\source\repos\2lab group v1\obj\Debug\2lab group v1.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\2lab group v1\obj\Debug\2lab group v1.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\source\repos\2lab group v1\obj\Debug\2lab group v1.exe
+C:\Users\Yoda\source\repos\2lab group v1\obj\Debug\2lab group v1.pdb
